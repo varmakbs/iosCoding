@@ -1,15 +1,14 @@
 //
 //  ViewController.swift
-//  Testing2
+//  Testing3
 //
-//  Created by Varma Kammili on 8/15/15.
+//  Created by Varma Kammili on 8/16/15.
 //  Copyright © 2015 Varma Kammili. All rights reserved.
 //
 
 import UIKit
 
 class ViewController: UIViewController {
-    @IBOutlet weak var submitButtin: UIButton!
 
     override func viewDidLoad() {
         super.viewDidLoad()
